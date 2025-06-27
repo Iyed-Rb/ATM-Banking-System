@@ -1,0 +1,4 @@
+﻿  ATM Banking System.cpp
+C:\Users\HP\source\repos\ATMBankingSystemProject\ATM Banking System\ATM Banking System.cpp(45,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\ATMBankingSystemProject\ATM Banking System\ATM Banking System.cpp(206,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  ATM Banking System.vcxproj -> C:\Users\HP\source\repos\ATMBankingSystemProject\x64\Debug\ATM Banking System.exe
