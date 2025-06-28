@@ -45,6 +45,4 @@ Client records are stored in `Clients.txt`, with each line formatted as:
 3. Log in using an account number and PIN
 4. Navigate through the menu to perform operations
 
-> ✅ This project was built as a self-learning exercise to explore clean and maintainable C++ design without using Object-Oriented Programming.
-
 
